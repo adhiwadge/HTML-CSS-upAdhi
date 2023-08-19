@@ -1,0 +1,32 @@
+.container .myText1 {
+    color: red;
+}
+
+/* .container #username{
+    color: blueviolet;
+} */
+
+div + h1{
+    color: green;
+}
+
+.myText1 + .myText2{
+    color: pink;
+}
+
+.myText2 + .myDiv{
+    color: orange;
+}
+
+/* input[type="text"]{
+    border: 2px solid green;
+    border-radius: 10%;
+}
+
+input[type="email"]{
+    border: 2px dashed red;
+} */
+
+.myInput[type="text"]{
+    border: 2px dashed blue;
+}
